@@ -1,168 +1,168 @@
-22:03:42 **** Build of configuration Debug for project lpc_chip_43xx ****
+20:36:38 **** Build of configuration Debug for project lpc_chip_43xx ****
 make -r all 
 Building file: ../src/adc_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/adc_18xx_43xx.d" -MT"src/adc_18xx_43xx.o" -MT"src/adc_18xx_43xx.d" -o "src/adc_18xx_43xx.o" "../src/adc_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/adc_18xx_43xx.d" -MT"src/adc_18xx_43xx.o" -MT"src/adc_18xx_43xx.d" -o "src/adc_18xx_43xx.o" "../src/adc_18xx_43xx.c"
 Finished building: ../src/adc_18xx_43xx.c
  
 Building file: ../src/aes_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/aes_18xx_43xx.d" -MT"src/aes_18xx_43xx.o" -MT"src/aes_18xx_43xx.d" -o "src/aes_18xx_43xx.o" "../src/aes_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/aes_18xx_43xx.d" -MT"src/aes_18xx_43xx.o" -MT"src/aes_18xx_43xx.d" -o "src/aes_18xx_43xx.o" "../src/aes_18xx_43xx.c"
 Finished building: ../src/aes_18xx_43xx.c
  
 Building file: ../src/atimer_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/atimer_18xx_43xx.d" -MT"src/atimer_18xx_43xx.o" -MT"src/atimer_18xx_43xx.d" -o "src/atimer_18xx_43xx.o" "../src/atimer_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/atimer_18xx_43xx.d" -MT"src/atimer_18xx_43xx.o" -MT"src/atimer_18xx_43xx.d" -o "src/atimer_18xx_43xx.o" "../src/atimer_18xx_43xx.c"
 Finished building: ../src/atimer_18xx_43xx.c
  
 Building file: ../src/ccan_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ccan_18xx_43xx.d" -MT"src/ccan_18xx_43xx.o" -MT"src/ccan_18xx_43xx.d" -o "src/ccan_18xx_43xx.o" "../src/ccan_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ccan_18xx_43xx.d" -MT"src/ccan_18xx_43xx.o" -MT"src/ccan_18xx_43xx.d" -o "src/ccan_18xx_43xx.o" "../src/ccan_18xx_43xx.c"
 Finished building: ../src/ccan_18xx_43xx.c
  
 Building file: ../src/chip_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/chip_18xx_43xx.d" -MT"src/chip_18xx_43xx.o" -MT"src/chip_18xx_43xx.d" -o "src/chip_18xx_43xx.o" "../src/chip_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/chip_18xx_43xx.d" -MT"src/chip_18xx_43xx.o" -MT"src/chip_18xx_43xx.d" -o "src/chip_18xx_43xx.o" "../src/chip_18xx_43xx.c"
 Finished building: ../src/chip_18xx_43xx.c
  
 Building file: ../src/clock_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/clock_18xx_43xx.d" -MT"src/clock_18xx_43xx.o" -MT"src/clock_18xx_43xx.d" -o "src/clock_18xx_43xx.o" "../src/clock_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/clock_18xx_43xx.d" -MT"src/clock_18xx_43xx.o" -MT"src/clock_18xx_43xx.d" -o "src/clock_18xx_43xx.o" "../src/clock_18xx_43xx.c"
 Finished building: ../src/clock_18xx_43xx.c
  
 Building file: ../src/dac_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/dac_18xx_43xx.d" -MT"src/dac_18xx_43xx.o" -MT"src/dac_18xx_43xx.d" -o "src/dac_18xx_43xx.o" "../src/dac_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/dac_18xx_43xx.d" -MT"src/dac_18xx_43xx.o" -MT"src/dac_18xx_43xx.d" -o "src/dac_18xx_43xx.o" "../src/dac_18xx_43xx.c"
 Finished building: ../src/dac_18xx_43xx.c
  
 Building file: ../src/eeprom_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/eeprom_18xx_43xx.d" -MT"src/eeprom_18xx_43xx.o" -MT"src/eeprom_18xx_43xx.d" -o "src/eeprom_18xx_43xx.o" "../src/eeprom_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/eeprom_18xx_43xx.d" -MT"src/eeprom_18xx_43xx.o" -MT"src/eeprom_18xx_43xx.d" -o "src/eeprom_18xx_43xx.o" "../src/eeprom_18xx_43xx.c"
 Finished building: ../src/eeprom_18xx_43xx.c
  
 Building file: ../src/emc_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/emc_18xx_43xx.d" -MT"src/emc_18xx_43xx.o" -MT"src/emc_18xx_43xx.d" -o "src/emc_18xx_43xx.o" "../src/emc_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/emc_18xx_43xx.d" -MT"src/emc_18xx_43xx.o" -MT"src/emc_18xx_43xx.d" -o "src/emc_18xx_43xx.o" "../src/emc_18xx_43xx.c"
 Finished building: ../src/emc_18xx_43xx.c
  
 Building file: ../src/enet_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/enet_18xx_43xx.d" -MT"src/enet_18xx_43xx.o" -MT"src/enet_18xx_43xx.d" -o "src/enet_18xx_43xx.o" "../src/enet_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/enet_18xx_43xx.d" -MT"src/enet_18xx_43xx.o" -MT"src/enet_18xx_43xx.d" -o "src/enet_18xx_43xx.o" "../src/enet_18xx_43xx.c"
 Finished building: ../src/enet_18xx_43xx.c
  
 Building file: ../src/evrt_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/evrt_18xx_43xx.d" -MT"src/evrt_18xx_43xx.o" -MT"src/evrt_18xx_43xx.d" -o "src/evrt_18xx_43xx.o" "../src/evrt_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/evrt_18xx_43xx.d" -MT"src/evrt_18xx_43xx.o" -MT"src/evrt_18xx_43xx.d" -o "src/evrt_18xx_43xx.o" "../src/evrt_18xx_43xx.c"
 Finished building: ../src/evrt_18xx_43xx.c
  
 Building file: ../src/fpu_init.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/fpu_init.d" -MT"src/fpu_init.o" -MT"src/fpu_init.d" -o "src/fpu_init.o" "../src/fpu_init.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/fpu_init.d" -MT"src/fpu_init.o" -MT"src/fpu_init.d" -o "src/fpu_init.o" "../src/fpu_init.c"
 Finished building: ../src/fpu_init.c
  
 Building file: ../src/gpdma_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/gpdma_18xx_43xx.d" -MT"src/gpdma_18xx_43xx.o" -MT"src/gpdma_18xx_43xx.d" -o "src/gpdma_18xx_43xx.o" "../src/gpdma_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/gpdma_18xx_43xx.d" -MT"src/gpdma_18xx_43xx.o" -MT"src/gpdma_18xx_43xx.d" -o "src/gpdma_18xx_43xx.o" "../src/gpdma_18xx_43xx.c"
 Finished building: ../src/gpdma_18xx_43xx.c
  
 Building file: ../src/gpio_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/gpio_18xx_43xx.d" -MT"src/gpio_18xx_43xx.o" -MT"src/gpio_18xx_43xx.d" -o "src/gpio_18xx_43xx.o" "../src/gpio_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/gpio_18xx_43xx.d" -MT"src/gpio_18xx_43xx.o" -MT"src/gpio_18xx_43xx.d" -o "src/gpio_18xx_43xx.o" "../src/gpio_18xx_43xx.c"
 Finished building: ../src/gpio_18xx_43xx.c
  
 Building file: ../src/gpiogroup_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/gpiogroup_18xx_43xx.d" -MT"src/gpiogroup_18xx_43xx.o" -MT"src/gpiogroup_18xx_43xx.d" -o "src/gpiogroup_18xx_43xx.o" "../src/gpiogroup_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/gpiogroup_18xx_43xx.d" -MT"src/gpiogroup_18xx_43xx.o" -MT"src/gpiogroup_18xx_43xx.d" -o "src/gpiogroup_18xx_43xx.o" "../src/gpiogroup_18xx_43xx.c"
 Finished building: ../src/gpiogroup_18xx_43xx.c
  
 Building file: ../src/hsadc_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/hsadc_18xx_43xx.d" -MT"src/hsadc_18xx_43xx.o" -MT"src/hsadc_18xx_43xx.d" -o "src/hsadc_18xx_43xx.o" "../src/hsadc_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/hsadc_18xx_43xx.d" -MT"src/hsadc_18xx_43xx.o" -MT"src/hsadc_18xx_43xx.d" -o "src/hsadc_18xx_43xx.o" "../src/hsadc_18xx_43xx.c"
 Finished building: ../src/hsadc_18xx_43xx.c
  
 Building file: ../src/i2c_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/i2c_18xx_43xx.d" -MT"src/i2c_18xx_43xx.o" -MT"src/i2c_18xx_43xx.d" -o "src/i2c_18xx_43xx.o" "../src/i2c_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/i2c_18xx_43xx.d" -MT"src/i2c_18xx_43xx.o" -MT"src/i2c_18xx_43xx.d" -o "src/i2c_18xx_43xx.o" "../src/i2c_18xx_43xx.c"
 Finished building: ../src/i2c_18xx_43xx.c
  
 Building file: ../src/i2cm_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/i2cm_18xx_43xx.d" -MT"src/i2cm_18xx_43xx.o" -MT"src/i2cm_18xx_43xx.d" -o "src/i2cm_18xx_43xx.o" "../src/i2cm_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/i2cm_18xx_43xx.d" -MT"src/i2cm_18xx_43xx.o" -MT"src/i2cm_18xx_43xx.d" -o "src/i2cm_18xx_43xx.o" "../src/i2cm_18xx_43xx.c"
 Finished building: ../src/i2cm_18xx_43xx.c
  
 Building file: ../src/i2s_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/i2s_18xx_43xx.d" -MT"src/i2s_18xx_43xx.o" -MT"src/i2s_18xx_43xx.d" -o "src/i2s_18xx_43xx.o" "../src/i2s_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/i2s_18xx_43xx.d" -MT"src/i2s_18xx_43xx.o" -MT"src/i2s_18xx_43xx.d" -o "src/i2s_18xx_43xx.o" "../src/i2s_18xx_43xx.c"
 Finished building: ../src/i2s_18xx_43xx.c
  
 Building file: ../src/iap_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/iap_18xx_43xx.d" -MT"src/iap_18xx_43xx.o" -MT"src/iap_18xx_43xx.d" -o "src/iap_18xx_43xx.o" "../src/iap_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/iap_18xx_43xx.d" -MT"src/iap_18xx_43xx.o" -MT"src/iap_18xx_43xx.d" -o "src/iap_18xx_43xx.o" "../src/iap_18xx_43xx.c"
 Finished building: ../src/iap_18xx_43xx.c
  
 Building file: ../src/lcd_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/lcd_18xx_43xx.d" -MT"src/lcd_18xx_43xx.o" -MT"src/lcd_18xx_43xx.d" -o "src/lcd_18xx_43xx.o" "../src/lcd_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/lcd_18xx_43xx.d" -MT"src/lcd_18xx_43xx.o" -MT"src/lcd_18xx_43xx.d" -o "src/lcd_18xx_43xx.o" "../src/lcd_18xx_43xx.c"
 Finished building: ../src/lcd_18xx_43xx.c
  
 Building file: ../src/otp_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/otp_18xx_43xx.d" -MT"src/otp_18xx_43xx.o" -MT"src/otp_18xx_43xx.d" -o "src/otp_18xx_43xx.o" "../src/otp_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/otp_18xx_43xx.d" -MT"src/otp_18xx_43xx.o" -MT"src/otp_18xx_43xx.d" -o "src/otp_18xx_43xx.o" "../src/otp_18xx_43xx.c"
 Finished building: ../src/otp_18xx_43xx.c
  
 Building file: ../src/pinint_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/pinint_18xx_43xx.d" -MT"src/pinint_18xx_43xx.o" -MT"src/pinint_18xx_43xx.d" -o "src/pinint_18xx_43xx.o" "../src/pinint_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/pinint_18xx_43xx.d" -MT"src/pinint_18xx_43xx.o" -MT"src/pinint_18xx_43xx.d" -o "src/pinint_18xx_43xx.o" "../src/pinint_18xx_43xx.c"
 Finished building: ../src/pinint_18xx_43xx.c
  
 Building file: ../src/pmc_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/pmc_18xx_43xx.d" -MT"src/pmc_18xx_43xx.o" -MT"src/pmc_18xx_43xx.d" -o "src/pmc_18xx_43xx.o" "../src/pmc_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/pmc_18xx_43xx.d" -MT"src/pmc_18xx_43xx.o" -MT"src/pmc_18xx_43xx.d" -o "src/pmc_18xx_43xx.o" "../src/pmc_18xx_43xx.c"
 Finished building: ../src/pmc_18xx_43xx.c
  
 Building file: ../src/ring_buffer.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ring_buffer.d" -MT"src/ring_buffer.o" -MT"src/ring_buffer.d" -o "src/ring_buffer.o" "../src/ring_buffer.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ring_buffer.d" -MT"src/ring_buffer.o" -MT"src/ring_buffer.d" -o "src/ring_buffer.o" "../src/ring_buffer.c"
 Finished building: ../src/ring_buffer.c
  
 Building file: ../src/ritimer_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ritimer_18xx_43xx.d" -MT"src/ritimer_18xx_43xx.o" -MT"src/ritimer_18xx_43xx.d" -o "src/ritimer_18xx_43xx.o" "../src/ritimer_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ritimer_18xx_43xx.d" -MT"src/ritimer_18xx_43xx.o" -MT"src/ritimer_18xx_43xx.d" -o "src/ritimer_18xx_43xx.o" "../src/ritimer_18xx_43xx.c"
 Finished building: ../src/ritimer_18xx_43xx.c
  
 Building file: ../src/rtc_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/rtc_18xx_43xx.d" -MT"src/rtc_18xx_43xx.o" -MT"src/rtc_18xx_43xx.d" -o "src/rtc_18xx_43xx.o" "../src/rtc_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/rtc_18xx_43xx.d" -MT"src/rtc_18xx_43xx.o" -MT"src/rtc_18xx_43xx.d" -o "src/rtc_18xx_43xx.o" "../src/rtc_18xx_43xx.c"
 Finished building: ../src/rtc_18xx_43xx.c
  
 Building file: ../src/sct_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sct_18xx_43xx.d" -MT"src/sct_18xx_43xx.o" -MT"src/sct_18xx_43xx.d" -o "src/sct_18xx_43xx.o" "../src/sct_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sct_18xx_43xx.d" -MT"src/sct_18xx_43xx.o" -MT"src/sct_18xx_43xx.d" -o "src/sct_18xx_43xx.o" "../src/sct_18xx_43xx.c"
 Finished building: ../src/sct_18xx_43xx.c
  
 Building file: ../src/sct_pwm_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sct_pwm_18xx_43xx.d" -MT"src/sct_pwm_18xx_43xx.o" -MT"src/sct_pwm_18xx_43xx.d" -o "src/sct_pwm_18xx_43xx.o" "../src/sct_pwm_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sct_pwm_18xx_43xx.d" -MT"src/sct_pwm_18xx_43xx.o" -MT"src/sct_pwm_18xx_43xx.d" -o "src/sct_pwm_18xx_43xx.o" "../src/sct_pwm_18xx_43xx.c"
 Finished building: ../src/sct_pwm_18xx_43xx.c
  
 Building file: ../src/sdif_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sdif_18xx_43xx.d" -MT"src/sdif_18xx_43xx.o" -MT"src/sdif_18xx_43xx.d" -o "src/sdif_18xx_43xx.o" "../src/sdif_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sdif_18xx_43xx.d" -MT"src/sdif_18xx_43xx.o" -MT"src/sdif_18xx_43xx.d" -o "src/sdif_18xx_43xx.o" "../src/sdif_18xx_43xx.c"
 Finished building: ../src/sdif_18xx_43xx.c
  
 Building file: ../src/sdio_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sdio_18xx_43xx.d" -MT"src/sdio_18xx_43xx.o" -MT"src/sdio_18xx_43xx.d" -o "src/sdio_18xx_43xx.o" "../src/sdio_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sdio_18xx_43xx.d" -MT"src/sdio_18xx_43xx.o" -MT"src/sdio_18xx_43xx.d" -o "src/sdio_18xx_43xx.o" "../src/sdio_18xx_43xx.c"
 Finished building: ../src/sdio_18xx_43xx.c
  
 Building file: ../src/sdmmc_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sdmmc_18xx_43xx.d" -MT"src/sdmmc_18xx_43xx.o" -MT"src/sdmmc_18xx_43xx.d" -o "src/sdmmc_18xx_43xx.o" "../src/sdmmc_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sdmmc_18xx_43xx.d" -MT"src/sdmmc_18xx_43xx.o" -MT"src/sdmmc_18xx_43xx.d" -o "src/sdmmc_18xx_43xx.o" "../src/sdmmc_18xx_43xx.c"
 Finished building: ../src/sdmmc_18xx_43xx.c
  
 Building file: ../src/spi_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/spi_18xx_43xx.d" -MT"src/spi_18xx_43xx.o" -MT"src/spi_18xx_43xx.d" -o "src/spi_18xx_43xx.o" "../src/spi_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/spi_18xx_43xx.d" -MT"src/spi_18xx_43xx.o" -MT"src/spi_18xx_43xx.d" -o "src/spi_18xx_43xx.o" "../src/spi_18xx_43xx.c"
 ../src/spi_18xx_43xx.c: In function 'Chip_SPI_Int_FlushData':
 ../src/spi_18xx_43xx.c:138:20: warning: variable 'tmp' set but not used [-Wunused-but-set-variable]
   volatile uint32_t tmp;
@@ -171,27 +171,27 @@ Finished building: ../src/spi_18xx_43xx.c
  
 Building file: ../src/ssp_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ssp_18xx_43xx.d" -MT"src/ssp_18xx_43xx.o" -MT"src/ssp_18xx_43xx.d" -o "src/ssp_18xx_43xx.o" "../src/ssp_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/ssp_18xx_43xx.d" -MT"src/ssp_18xx_43xx.o" -MT"src/ssp_18xx_43xx.d" -o "src/ssp_18xx_43xx.o" "../src/ssp_18xx_43xx.c"
 Finished building: ../src/ssp_18xx_43xx.c
  
 Building file: ../src/stopwatch_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/stopwatch_18xx_43xx.d" -MT"src/stopwatch_18xx_43xx.o" -MT"src/stopwatch_18xx_43xx.d" -o "src/stopwatch_18xx_43xx.o" "../src/stopwatch_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/stopwatch_18xx_43xx.d" -MT"src/stopwatch_18xx_43xx.o" -MT"src/stopwatch_18xx_43xx.d" -o "src/stopwatch_18xx_43xx.o" "../src/stopwatch_18xx_43xx.c"
 Finished building: ../src/stopwatch_18xx_43xx.c
  
 Building file: ../src/sysinit_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sysinit_18xx_43xx.d" -MT"src/sysinit_18xx_43xx.o" -MT"src/sysinit_18xx_43xx.d" -o "src/sysinit_18xx_43xx.o" "../src/sysinit_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/sysinit_18xx_43xx.d" -MT"src/sysinit_18xx_43xx.o" -MT"src/sysinit_18xx_43xx.d" -o "src/sysinit_18xx_43xx.o" "../src/sysinit_18xx_43xx.c"
 Finished building: ../src/sysinit_18xx_43xx.c
  
 Building file: ../src/timer_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/timer_18xx_43xx.d" -MT"src/timer_18xx_43xx.o" -MT"src/timer_18xx_43xx.d" -o "src/timer_18xx_43xx.o" "../src/timer_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/timer_18xx_43xx.d" -MT"src/timer_18xx_43xx.o" -MT"src/timer_18xx_43xx.d" -o "src/timer_18xx_43xx.o" "../src/timer_18xx_43xx.c"
 Finished building: ../src/timer_18xx_43xx.c
  
 Building file: ../src/uart_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/uart_18xx_43xx.d" -MT"src/uart_18xx_43xx.o" -MT"src/uart_18xx_43xx.d" -o "src/uart_18xx_43xx.o" "../src/uart_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/uart_18xx_43xx.d" -MT"src/uart_18xx_43xx.o" -MT"src/uart_18xx_43xx.d" -o "src/uart_18xx_43xx.o" "../src/uart_18xx_43xx.c"
 ../src/uart_18xx_43xx.c: In function 'Chip_UART_Init':
 ../src/uart_18xx_43xx.c:98:23: warning: variable 'tmp' set but not used [-Wunused-but-set-variable]
      volatile uint32_t tmp;
@@ -200,7 +200,7 @@ Finished building: ../src/uart_18xx_43xx.c
  
 Building file: ../src/wwdt_18xx_43xx.c
 Invoking: MCU C Compiler
-arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/wwdt_18xx_43xx.d" -MT"src/wwdt_18xx_43xx.o" -MT"src/wwdt_18xx_43xx.d" -o "src/wwdt_18xx_43xx.o" "../src/wwdt_18xx_43xx.c"
+arm-none-eabi-gcc -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_LPCOPEN -DCORE_M4 -I"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\inc" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections -fsingle-precision-constant -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -specs=redlib.specs -MMD -MP -MF"src/wwdt_18xx_43xx.d" -MT"src/wwdt_18xx_43xx.o" -MT"src/wwdt_18xx_43xx.d" -o "src/wwdt_18xx_43xx.o" "../src/wwdt_18xx_43xx.c"
 Finished building: ../src/wwdt_18xx_43xx.c
  
 Building target: liblpc_chip_43xx.a
@@ -254,5 +254,5 @@ arm-none-eabi-size "liblpc_chip_43xx.a" ; # arm-none-eabi-objdump -h -S "liblpc_
     136	      0	      0	    136	     88	wwdt_18xx_43xx.o (ex liblpc_chip_43xx.a)
  
 
-22:03:55 Build Finished (took 12s.218ms)
+20:36:50 Build Finished (took 12s.100ms)
 

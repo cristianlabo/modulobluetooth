@@ -30,7 +30,7 @@ all: freertos_examples_10_to_16.axf
 freertos_examples_10_to_16.axf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_chip_43xx\Debug" -L"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-TP3\lpc_board_nxp_lpcxpresso_4337\Debug" -Xlinker -Map="freertos_examples_10_to_16.map" -Xlinker --gc-sections -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -T "freertos_examples_10_to_16_Debug.ld" -o "freertos_examples_10_to_16.axf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -nostdlib -L"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_chip_43xx\Debug" -L"C:\Users\cmg-8\Documents\LPCXpresso_8.2.0_647\workspace-modulo-bluetooth\modulobluetooth\lpc_board_nxp_lpcxpresso_4337\Debug" -Xlinker -Map="freertos_examples_10_to_16.map" -Xlinker --gc-sections -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -T "freertos_examples_10_to_16_Debug.ld" -o "freertos_examples_10_to_16.axf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build
